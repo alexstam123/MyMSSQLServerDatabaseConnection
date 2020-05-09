@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
 
     private TextView textView;
 
-    private static String ip = "";
+    private static String ip = "ip";
     private static String port = "1433";
     private static String Classes = "net.sourceforge.jtds.jdbc.Driver";
     private static String database = "testDatabase";
